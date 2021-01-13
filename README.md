@@ -6,21 +6,24 @@ Pocket sized digital photo frame
 ### Materials Required   
 ************************
   I. Hardware requirements:   
+  
     Adafruit 1.44” TFT display   
     Wemos D1 Mini (you could use other ardunio based boards)   
     Jumper wires (if you do not want to print a PCB)   
     General purpose PCB (once again if you do not want to print a PCB)   
 
   II. Software requirements:   
+  
       The code has been tested and found to be working with the following versions of software.         
       Arduino IDE – 1.8.13   
       Fastone image resizer   
       Fritzing – Any version   
-      Arduino Libraries     
-        ArduinoJson – 5.13.5  
-        Adafruit ST7735 and ST7739 Library – 1.6.0   
-        Adafruit GFX Library – 1.10.4   
-        TFT – 1.2.1   
+      Arduino Libraries:         
+      
+        1. ArduinoJson – 5.13.5  
+        2. Adafruit ST7735 and ST7739 Library – 1.6.0   
+        3. Adafruit GFX Library – 1.10.4   
+        4. TFT – 1.2.1   
 
 
 ************************
